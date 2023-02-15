@@ -10,7 +10,13 @@ Install the required dependencies:
 npm install
 ```
 
-Build Javascript files into a bundle:
+Build JavaScript files into a bundle while editing:
+
+```
+npm run watch:js
+```
+
+Build JavaScript files into a bundle:
 
 ```
 npm run build:js
