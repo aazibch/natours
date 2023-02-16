@@ -1,6 +1,6 @@
 # Natours
 
-A full-stack application for a fictional touring company called Natours. Payment functionality has not been implemented yet.
+A full-stack application for a fictional touring company called Natours.
 
 ## Scripts
 
