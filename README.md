@@ -1,6 +1,6 @@
 # Natours
 
-A full-stack application for a fictional touring company called Natours.
+A full-stack application for a fictional touring company called Natours. No payment system implementation yet, as Stripe doesn't accept accounts from Pakistan.
 
 ## Scripts
 
