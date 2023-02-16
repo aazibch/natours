@@ -2,6 +2,16 @@
 
 A full-stack application for a fictional touring company called Natours. No payment system implementation yet, as Stripe doesn't accept accounts from Pakistan.
 
+## Demo
+
+The demo can be accessed at https://natours-production-app.up.railway.app/
+
+You can login using the following credentials.
+
+Email: loulou@example.com
+
+Password: samplepassword123
+
 ## Scripts
 
 Install the required dependencies:
